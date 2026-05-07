@@ -1,0 +1,46 @@
+Vietnam Airlines — AR Luggage Measure
+Wireframe: Carry-on Box Method + LiDAR Method (Vietnamese)
+Edit in Wiretext: https://wiretext.app/#N4IgbgpgTgzglgewHYgFwCYA0IECMBWEAxgC4xoDaoJAngA4Roi4IAeI2dC8JiKqoIggA2aAKwA2bFAQB3NAEYAzAF9ssuABMSAC3ELsOiHADmOkmiUBObCyiboAZVrDGqEPCQnXHEAC8ASSQHdlQABmxhAEMaaADNJkcAax06AGkxVj8wAH0SfAAJCBowtJ0AFgAhMF8tJgBVYTSAVx0C1gBFAEEANTSAdn7cJIQAWR0AcX6AYRA1ano3ZjZfLh4+NEERcQAOaTlFKzUQDW09VHL+w2MzCwwbZfsnFyXPb0ZsQOCIUIMQaNiUHiiRS6Uy2TyhWKpQq1VqCXcSQUYgUAE0RgoALT9PwAKSQEgCxDS1gAGnNMAsGEwSD8LJxuHBeMhNiAhKJUMixPt5Jz0MchEhaUKmKMAAdIAAE6FQko6zQAlyRJQBbQDteMrAIiAgFK8en+IIhNBYf4xOIIkDJVIZLK5fJFEplKo1bB1dwARwASgAxAphMAAEQAcgAzVgAeXwVlYYgA6m6lAAtQNhClUpZCFVcJAQEXYDNZnMkAAqiyYcBVURMHxAayZGwEbO2qH6Sh5RoUx1OukUUhARlM5jQV0eDigzhoPncbx8nwNP0skVNQPNlrBNsh9phTvhooCEzoJFYzTDbsc5WmYXqdGaMDEsgAohJUyBaNT3Cx2Az1iyG+y0BI-hkXklDCTstG7VBe37W4FxHZ4J1eOAvBnfVvlCcpF0BYF3FXa0ITtaFHThF1zQUAAZJIoFxepuACMIci9CYwCiD1mlGaZRiUZ9XyWWlWD1WtmX4LYOQkDCQCAywOzzZBhTuEAFF8L5DVQbkTSwldQTw20oQdWFnRAV0QAkfBAw6DoPTAMivTgAoVQABXQXAOjSKBZA9e9uNLdw+IExkhNZP9IIeSTUCUaTGyFQsmHlJVVQ1SUdWVN1miiJAdElFKAF-JRSABDogdAAOiUudQl7AEzRBK1wR0zciIMoyYHs+z6h0BM-FRMAxHvBQchjL0VVGGgwz8dAvLfZZPxrfz6xE-9AIOMKxDAs5-2uAc7lbOCxxeJhp2rZT52bTCqpwrTao3Qj9J3d9+jI3B7ImPwExyVEJBIHJykDTFNA9Pr+gm3i6VWWaf3myDxNCpQJAFWTovccbZzQtA9nUs6LQu9cCL07cSKYdBcWEf0oDoYQJBgHJAzED1KmEAoJggfqn3mF9vJfEGvzrcHG1EkKlphuGopFdxYuVAB6SV-TgSVCuaGhAGG8KUdAlDLhBygAdFBkZUh5KuXaq13w3St2IwzzVxcocnQfp7NwFUOkqD0uiIZoAiSIt0C9-0gaYD9Qe-YTeYWtsLgirtzigm5BzC2wECeXaEP2pD3lKlHOQidGDfOmrsZNhrbpAVFhGmBQ4FkTETCLCRNHwEw4Bye8AjIzFcEB1meJpTmZsDwKmzE0Pyn5GThfkrideOhQ-n17DMdz436pu-H3H9XAw3csiwHKDQ-TELoEw6fAenwOBA19nzu8Eubg+Cwfh8iuSmAKBAJUlXRVbTlSFGNGfNPnurrp43NkwLo0xmgegmJUMoOQuiBhMFAJAmIkhei6BIDoKpz4c34gHbmQcgoSG2tDVQI9H7uAKAAY5oJlRUyp1Ral1LLQA53hRFyjoZokowCAEe8IgkodBwEAON4UoSCAEK8OAWtNQK0lMIbUVDNRwAViqVUgBFvB4ZqBAvDVZSKyiVCevxtq-0NtpK6uMzZGR0BIXA95STlCgPgEgAR+hdH9EQe8shURdDSJiHImDfI4ICr+fuUMBY7CFqQkA0tZZsMVsrTR6sOFinUToQAm3h0F4QgNUPCYCAFu8SUmhACneF4LWRAAAvXhJReB0AAK8Suo9KaUMoSOoXFFW6UtGf0nuJAxOcjYAJMY1c0YhHCOCgDoJAaQJjBjCKiWQARq4SDoGGeyARyg+MvmDPBgTB7lFCQjEAz9X7v1aSlPKb8oAABvWlqI0a09WOjUJfzUl0uePTjGm36UwHo9kwxFmEH4eyDgVSok0Dkfo6AAiogmNMJA9RMFRCgJJLm-iIblH5rydA2zsA5k0PZdZfcOT9EzqFdFxwjq-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-QVgEgBQwYSG1pYJN8-QXeaAKKjpTARYcAgA-XipIkB5KsH1HlB0YRmP4kF9rQD9ATAkA4hKCogxisCVBFhkR5Z0A9CVBugTBgFgFXYXaFgIavCwGkB5lBZvaDwuGVlM4s6bS1mA7KGpY7mmYXGtFp5akSRiAIAejTAmBiD1DNBe5gA0BkSBidRwBYnNBcFcHuCAAIgIkksW-DoIwrLKUrNgUR+e+eAdAQ9pNDAIJq4KhtrJMaethqHF7KgeIJnJUbMWbvWXgY2aZs0bBRqS-uQfeKkV6DkKqHADQKiFYLIOUMICYB0KiKwBODQI+Sxb4IxaxUsDQS9vaf+QBAehWcfttNUYfhBTfioZJWDkPPCSQVEUiUZBII4B0aiDkGmQgOVgoMGGQZiGwkoMIDsLUIKEwIAKBk45J6AJYZ3FtJ8MHWkgfhkokoMM6VZ+ssGCG5oRGM5xLRqe7gVgowPQ94BQ9kaQSAfgGgrACYCgboowJgLBwglQeZ-xlJSp3FB+UhCgw4NlQl7ONZ1GTl4lhVUFUZhc0w-o0wZEkycACgAQSgMAXoqI0auIe8BKleaYWuIhM51J6A85GAR6wFkcWBNRShLlUFTZC55xc1slh5TuNpHoRYGZa+IB0wEAHQOQVgpISgKoSQi6cVCBqVi0aKEhCaHW8eG5vOj1kZUlfaXilQEAboMYOgPQuAjgRYlQEgVg9kboSQylBJoNFJ4eMJLWkNc57gGsIAgA9YADo8IkB1qtK6BUWqhqqShaz1wABfqSuAbhkSzQgAlXhSi4A8k+FxJ1LpRFTc1jKLnJTND5pkXcJvyLny27FkWSJa2FSVpqz8KrHpSADzeEVHTTNpcC5eEfCZceaF6M0BMF0AgOtetoEF6BhkQLiDQCYGED0CzCSWukpn8Rxa9hIMaKFGIPGm3vFUFMiHvlhr3ipMWVbUVdBc-liRAMGPBfgLgEoAEF5W0OgAgGRDGPgM1IphuqZV3pHqHJHccNHWDZSQNbXX-TRiinnVNUjQ7o4GIB0D0DAGkAEFYJUDTPeGkGRBMDznuFEGrgALodrkCoBUDd2d3PVIDJpLBkRLiSiKTYBgBwDwC4CTgkBQDNAQCRAIBECCYIjBhRDCAwEqCz0qBAA
+
+================================================================================
+
+Màn 1: Hướng dẫn sử dụng
+- Graphic động minh hoạ quá trình quét sàn và hành lý
+- Bước 1: Quét mặt đất quanh quý khách
+- Bước 2: Quét / Di chuyển hành lý (vào hộp hoặc dùng công nghệ đo tự động)
+- Bước 3: Hoàn thành
+- Nút: Tiếp tục
+
+Màn 2: Quét mặt đất
+- Camera đã bật, cảnh vật hiện ở phía sau
+- Hướng dẫn: "Vui lòng quét mặt đất quanh quý khách"
+- Icon (i): Mở rộng hiện nội dung Màn 1 (Hướng dẫn sử dụng)
+- Dropdown "Đo hành lý thủ công" ở cuối màn
+
+Màn 3 (Box method): Khung AR xuất hiện
+- Hướng dẫn: "Quét mặt đất thành công. Vui lòng đưa hành lý vào trong khung định sẵn"
+- AR box xuất hiện trên sàn (56 x 36 x 23 cm)
+- Dropdown "Đo hành lý thủ công" ở cuối màn
+- Nút: "Xác nhận hành lý đã trong khung định sẵn"
+- Lưu ý: Có thể để máy tự xác nhận khi đồ vật khớp và đóng băng màn hình,
+  hoặc để người dùng tự bấm nút xác nhận
+
+Màn 3 (LiDAR method): Quét LiDAR quanh hành lý
+- Hướng dẫn: "Quét mặt đất thành công. Vui lòng đưa máy quay quanh hành lý"
+- Hiện các dấu chấm nhỏ li ti quanh hành lý (như demo đã gửi)
+- Dropdown "Đo hành lý tự động" ở cuối màn
+
+Màn 4 (Box method result): Kết quả đo
+- Thông báo: "Quý khách đã hoàn thành thao tác đo nhanh hành lý"
+- Hỏi: "Mua thêm hành lý?"
+- Hiển thị khung AR với hành lý bên trong
+- Thông tin: kích thước hộp định sẵn 56 x 36 x 23 cm
+- Nút: "Đo lại hành lý" / "Quay về trang chủ"
+- Link: "Đo hành lý khác"
+
+Màn 4 (LiDAR result): Kết quả đo tự động
+- Thông báo: "Quý khách đã hoàn thành thao tác đo nhanh hành lý"
+- Hỏi: "Mua thêm hành lý?"
+- Kết quả: "✓ Hành lý của quý khách đã đạt mức quy định với kích cỡ: 50 x 30 x 20 cm"
+- Nút: "Đo lại hành lý" / "Quay về trang chủ"
+- Link: "Đo hành lý khác"
