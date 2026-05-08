@@ -49,3 +49,4 @@ Màn 4      Màn 4
 |---|---|
 | [`vi-flow-carry-on-box.txt`](vi-flow-carry-on-box.txt) | Wireframe gốc — ASCII art + link Wiretext |
 | [`wireframes-wiretext.md`](wireframes-wiretext.md) | Mô tả chi tiết từng màn hình |
+| [`ancillary-recommendation-carousel.md`](ancillary-recommendation-carousel.md) | Wireframe carousel gợi ý dịch vụ phụ trợ — 3 kịch bản |
